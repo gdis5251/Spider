@@ -1,0 +1,3 @@
+﻿  Spider.cpp
+D:\学习\项目\Spider\Spider\Spider.hpp(332,21): warning C4018:  “<”: 有符号/无符号不匹配
+  Spider.vcxproj -> D:\学习\项目\Spider\Spider\Debug\Spider.exe
